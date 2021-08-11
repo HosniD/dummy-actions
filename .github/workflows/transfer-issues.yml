@@ -24,6 +24,6 @@ jobs:
         uses: HosniD/transfer-issue@v0.0.2
         with:
           # repo to copy from
-          repo-source: https://github.com/HosniD/dummy-actions.git
+          repo-source: https://github.com/HosniD/dummy-actions
           # repo to copy to
-          repo-destination: https://github.com/HosniD/transfer-issue.git
+          repo-destination: https://github.com/HosniD/transfer-issue
