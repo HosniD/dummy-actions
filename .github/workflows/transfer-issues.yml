@@ -1,0 +1,9 @@
+- name: Transfer Issue
+  # You may pin to the exact commit or the version.
+  # uses: HosniD/transfer-issue@b7789507f14b0fd0d28089cb0e5082e4cfb9c8ed
+  uses: HosniD/transfer-issue@v0.0.1
+  with:
+    # repo to copy from
+    repo-source:
+    # repo to copy to
+    repo-destination:
