@@ -4,6 +4,6 @@
   uses: HosniD/transfer-issue@v0.0.1
   with:
     # repo to copy from
-    repo-source:
+    repo-source: https://github.com/HosniD/dummy-actions.git
     # repo to copy to
-    repo-destination:
+    repo-destination: https://github.com/HosniD/transfer-issue.git
